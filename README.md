@@ -14,7 +14,9 @@ Using Unity, Arduino, and Leap Motion, a custom-built haptic glove makes it poss
 
 ## The World's Most Affordable Haptic Glove?
 With a small budget to work with, this project might possibly the world's most affordable haptic glove ever created for consumers and DIY
-enthusiasts. A price table can be shown giving the relatively average price of each item with its price. The cost is obviously dependent on
+enthusiasts. A price table can be shown giving the relatively average price of each item with its price. 
+
+The cost is obviously dependent on
 what resources you already have available, but if you're starting from scratch, or are missing key components, this table is for you. If
 you're looking at this page, you'll probably find you have most of these items already.
 

@@ -5,7 +5,7 @@ Using Unity, Arduino, and Leap Motion, a custom-built haptic glove makes it poss
 
 ![img_0752_3](https://user-images.githubusercontent.com/17803366/39504273-76e6af96-4d98-11e8-8364-4cbd11d81b10.jpeg)
 
-## Features
+## Current Features
 
 * Low Latency
 * Completely Customizable 

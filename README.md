@@ -28,12 +28,14 @@ Arduino Uno Rev 3 | $22.00
 Piano Fingers / Mount (Optional) | $4.99
 Haptic Motors (x5) | $3.99
 Wires | N/A (Depends)
--- | --
-Total Cost | $130.96
+**Total Cost** | **$130.96**
 
->While this may seem like a hefty DIY project, it is still possibly the most affordable haptic glove that's available at the moment. Most haptic
+While this may seem like a hefty DIY project, it is still possibly the most affordable haptic glove that's available at the moment. Most haptic
 gloves start at around $200, excluding tracking. With Leap Motion camera tracking, you'll be able to have hand tracking at an affordable
 price.
 
 ## Setting Up A Project
-[WIP]
+
+>In its current state, you will only be able to brush your hand against an object. Keep in mind that this is still a work-in-progress demo. If you're alright with dealing with a barebones system with some minor bugs I may not be aware of, here is a step-by-step tutorial on setting up your own project. 
+**It is also currently only for use on the right hand. Left hand support is planned.**
+

@@ -25,7 +25,7 @@ Item  | Price
 Pair of Gloves  | $9.99
 Leap Motion Dev. Kit  | $89.99
 Arduino Uno Rev 3 | $22.00
-Piano Fingers / Mount (Optional) | $4.99
+Mount (Optional) | $4.99
 Haptic Motors (x5) | $3.99
 Wires | N/A (Depends)
 **Total Cost** | **$130.96**

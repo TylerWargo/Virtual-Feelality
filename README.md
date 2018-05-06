@@ -16,7 +16,7 @@ Using Unity, Arduino, and Leap Motion, a custom-built haptic glove makes it poss
 * Grasp + Throw Objects
 * Steam VR Intergration
 * Left Hand Support
-* Wireless Option
+* Wireless Support
 
 ## The World's Most Affordable Haptic Glove?
 With a small budget to work with, this project might possibly the world's most affordable haptic glove ever created for consumers and DIY
